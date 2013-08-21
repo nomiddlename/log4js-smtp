@@ -1,0 +1,18 @@
+{
+  "name": "log4js-smtp",
+  "version": "0.0.0",
+  "description": "SMTP appender for log4js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "",
+  "keywords": [
+    "logging",
+    "log4js",
+    "smtp",
+    "mail"
+  ],
+  "author": "",
+  "license": "BSD"
+}
